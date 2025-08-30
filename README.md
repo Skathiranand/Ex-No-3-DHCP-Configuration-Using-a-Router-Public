@@ -1,4 +1,4 @@
-## Ex. No: 3  DHCP Configuration Using a Router
+## Ex No: 3  DHCP Configuration Using a Router
 ## NAME : kathir Anand S
 ## REG NO : 212223100018
 ## Date : 30:08:2025
